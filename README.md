@@ -1,4 +1,4 @@
-# GAN to create Monet-style arts
+# Converting Photos to Monet Style Paintings Using cycleGAN
 # CycleGAN results after 10 Epochs
 [Google Colab Link](https://colab.research.google.com/drive/1nQ4KUd5pRFpZU3Us3X_kfiYzn77zs1Up?usp=sharing)
 ## Before Training
