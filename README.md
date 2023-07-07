@@ -2,15 +2,15 @@
 # CycleGAN results after 10 Epochs
 [Google Colab Link](https://colab.research.google.com/drive/1nQ4KUd5pRFpZU3Us3X_kfiYzn77zs1Up?usp=sharing)
 ## Before Training
-![Before training input and output](CycleGAN/data/before_training.png)
+![Before training input and output](https://github.com/Aazat/Monet_GAN/blob/main/CycleGAN/data/before_training.png)
 
 ## After Training
-![After Training input and output](CycleGAN/data/after_training.png)
+![After Training input and output](https://github.com/Aazat/Monet_GAN/blob/main/CycleGAN/data/after_training.png)
 
 ## Photo to Monet 
 
-![Photo to Monet Conversion](CycleGAN/data/photo_to_monet.png)
+![Photo to Monet Conversion](https://github.com/Aazat/Monet_GAN/blob/main/CycleGAN/data/photo_to_monet.png)
 
 ## Monet to photo
 
-![Monet to Photo Conversion](CycleGAN/data/monet_to_photo.png)
+![Monet to Photo Conversion](https://github.com/Aazat/Monet_GAN/blob/main/CycleGAN/data/monet_to_photo.png)
